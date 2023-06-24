@@ -15,7 +15,7 @@
 ### Projects
 
 [![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/adamalston/v2)
-[![](https://img.shields.io/badge/-🏦%20Boosting-Loan%20Project-000)](https://github.com/omar-kabeer/Boosting-Loan-Acceptance-Rates)
+[![](https://img.shields.io/badge/-🏦%20Boosting%20Loan-000)](https://github.com/omar-kabeer/Boosting-Loan-Acceptance-Rates)
 [![](https://img.shields.io/badge/-📝%20Summarizer-000)](https://github.com/adamalston/Summarizer)
 [![](https://img.shields.io/badge/-🔬%20Overwatch-000)](https://github.com/adamalston/overwatch)
 [![](https://img.shields.io/badge/-🛰%20KubeSat-000)](https://github.com/adamalston/kubesat)
