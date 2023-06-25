@@ -1,5 +1,8 @@
 [![](https://github.com/omar-kabeer/omar-kabeer/blob/61bdf2a45bb71b00a372c4862d77eedf31d8f824/profile.gif)](https://www.adamalston.com/)<!-- If you want the template for my gif, email me! -->
 
+### Connect with Me
+[![](https://img.shields.io/badge/-🌐%20My%20Website-000)](flowcv.me/umar-kabir)
+
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -14,7 +17,6 @@
 
 ### Projects
 
-[![](https://img.shields.io/badge/-🌐%20My%20Website-000)](flowcv.me/umar-kabir)
 [![](https://img.shields.io/badge/-🏦%20Boosting%20Loan-000)](https://github.com/omar-kabeer/Boosting-Loan-Acceptance-Rates)
 
 ### Articles
