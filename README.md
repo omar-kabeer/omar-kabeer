@@ -2,7 +2,6 @@
 
 ### Connect with Me
 [![](https://img.shields.io/badge/-🌐%20My%20Website-000)](flowcv.me/umar-kabir)
-[![](https://img.shields.io/badge/-🌐%20My%20Git-000)](https://github.com/omar-kabeer)
 
 ### Languages
 
