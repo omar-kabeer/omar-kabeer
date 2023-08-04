@@ -1,4 +1,9 @@
-[![](https://github.com/omar-kabeer/omar-kabeer/blob/61bdf2a45bb71b00a372c4862d77eedf31d8f824/profile.gif)](https://github.com/omar-kabeer)<!-- If you want the template for my gif, email me! -->
+[![](https://github.com/omar-kabeer/omar-kabeer/blob/61bdf2a45bb71b00a372c4862d77eedf31d8f824/profile.gif)](https://github.com/omar-kabeer)
+
+# Umar Kabir
+
+## Data Scientist/Business Analyst
+Welcome to my GitHub! I'm excited to share with you my projects, skills, and experience. 
 
 ### Connect with Me
 [![](https://img.shields.io/badge/-🌐%20My%20Website-000)](https://www.datascienceportfol.io/umarkabir)
