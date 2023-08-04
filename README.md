@@ -4,6 +4,7 @@
 [![](https://img.shields.io/badge/-🌐%20My%20Website-000)](https://www.datascienceportfol.io/umarkabir)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/umar-kabir-9b8a6a88/)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-000?&logo=Kaggle)](https://www.kaggle.com/umarkabir)
+[![Gmail](https://img.shields.io/badge/-Gmail-000?&logo=Gmail)](uksaid12@gmail.com)
 
 ### Languages
 
