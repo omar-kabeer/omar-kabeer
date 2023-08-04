@@ -3,6 +3,7 @@
 ### Connect with Me
 [![](https://img.shields.io/badge/-🌐%20My%20Website-000)](https://www.datascienceportfol.io/umarkabir)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/umar-kabir-9b8a6a88/)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-000?&logo=Kaggle)](https://www.kaggle.com/umarkabir)
 
 ### Languages
 
@@ -18,7 +19,6 @@
 ![Oracle Cloud Infrastracture](https://img.shields.io/badge/-Oracle-000?&logo=Oracle)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-000?&logo=Streamlit)
 ![Gradio](https://img.shields.io/badge/-Gradio-000?&logo=Gradio)
-
 
 ### Projects
 
