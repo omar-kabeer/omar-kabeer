@@ -6,7 +6,7 @@
 Welcome to my GitHub! I'm excited to share with you my projects, skills, and experience. 
 
 ### My CV/Resume
-[![](https://img.shields.io/badge/-CV-000?&logo=Link)](https://app.enhancv.com/share/7d4f49a4/?utm_medium=growth&utm_campaign=share-resume&utm_source=)
+[![](https://img.shields.io/badge/-🌐CV-000?&logo=Link)](https://app.enhancv.com/share/7d4f49a4/?utm_medium=growth&utm_campaign=share-resume&utm_source=)
 [![](https://img.shields.io/badge/-🌐Portfolio-000?&logo=Website)](https://www.datascienceportfol.io/umarkabir)
 ### Connect with Me
 
