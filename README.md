@@ -8,6 +8,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Streamlit](https://img.shields.io/badge/-Streamlit-000?&logo=Streamlit)
 
 ### Technologies
 
