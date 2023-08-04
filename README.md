@@ -15,6 +15,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+![Oracle Cloud Infrastracture](https://img.shields.io/badge/-Oracle-000?&logo=Oracle)
 
 ### Projects
 
