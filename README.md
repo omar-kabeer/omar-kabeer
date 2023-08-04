@@ -8,7 +8,6 @@
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Streamlit](https://img.shields.io/badge/-Streamlit-000?&logo=Streamlit)
 
 ### Technologies
 
@@ -17,6 +16,9 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 ![Oracle Cloud Infrastracture](https://img.shields.io/badge/-Oracle-000?&logo=Oracle)
+![Streamlit](https://img.shields.io/badge/-Streamlit-000?&logo=Streamlit)
+![Gradio](https://img.shields.io/badge/-Gradio-000?&logo=Gradio)
+
 
 ### Projects
 
