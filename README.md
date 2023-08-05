@@ -28,6 +28,7 @@ Welcome to my GitHub! I'm excited to share with you my projects, skills, and exp
 ![Oracle Cloud Infrastracture](https://img.shields.io/badge/-Oracle-000?&logo=Oracle)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-000?&logo=Streamlit)
 ![Gradio](https://img.shields.io/badge/-Gradio-000?&logo=Gradio)
+![PowerBI](https://img.shields.io/badge/-PowerBI-000?&logo=PowerBI)
 
 ### Projects
 
