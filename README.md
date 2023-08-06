@@ -2,7 +2,7 @@
 
 # Umar Kabir 👨🏾‍💻
 
-## Data Scientist/Business Analyst 📑📊📈📉
+## Data Scientist | Business Analyst 📑📊📈📉
 Welcome to my GitHub! I'm excited to share with you my projects, skills, and experience. 
 
 ### My CV/Resume
