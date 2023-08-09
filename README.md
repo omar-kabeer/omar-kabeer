@@ -34,6 +34,7 @@ Welcome to my GitHub! I'm excited to share with you my projects, skills, and exp
 
 [![](https://img.shields.io/badge/-🏦%20Boosting%20Loan%20Acceptance-000)](https://github.com/omar-kabeer/Boosting-Loan-Acceptance-Rates)
 [![](https://img.shields.io/badge/-🕹%20Reinforcement%20Learning%20for%20Atari%20Video%20Games-000)](https://github.com/omar-kabeer/atari-games)
+[![](https://img.shields.io/badge/-💳%20Reinforcement%20Learning%20for%20Atari%20Video%20Games-000)](https://github.com/omar-kabeer/my_paypal)
 
 ### Articles
 
