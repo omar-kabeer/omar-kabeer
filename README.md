@@ -31,10 +31,12 @@ Welcome to my GitHub! I'm excited to share with you my projects, skills, and exp
 ![PowerBI](https://img.shields.io/badge/-PowerBI-000?&logo=PowerBI)
 
 ### Projects
-
+#### Finance
 [![](https://img.shields.io/badge/-🏦%20Boosting%20Loan%20Acceptance-000)](https://github.com/omar-kabeer/Boosting-Loan-Acceptance-Rates)
-[![](https://img.shields.io/badge/-🕹%20Reinforcement%20Learning%20for%20Atari%20Video%20Games-000)](https://github.com/omar-kabeer/atari-games)
 [![](https://img.shields.io/badge/-💳%20Credit%20Card%20Fraud%20Detection-000)](https://github.com/omar-kabeer/my_paypal)
+
+#### Reinforcement Learning (RL)
+[![](https://img.shields.io/badge/-🕹%20Reinforcement%20Learning%20for%20Atari%20Video%20Games-000)](https://github.com/omar-kabeer/atari-games)
 
 ### Articles
 
