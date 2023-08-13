@@ -32,7 +32,7 @@ Welcome to my GitHub! I'm excited to share with you my projects, skills, and exp
 
 ### Projects
 #### Education
-[![](https://img.shields.io/badge/-👩‍🎓🧑‍🎓%20Forecasting%20Academic%20Trajectories-000)](https://github.com/omar-kabeer/forecasting-academic-trajectories)
+[![](https://img.shields.io/badge/-🏫%20Forecasting%20Academic%20Trajectories-000)](https://github.com/omar-kabeer/forecasting-academic-trajectories)
 #### Finance
 [![](https://img.shields.io/badge/-🏦%20Boosting%20Loan%20Acceptance-000)](https://github.com/omar-kabeer/Boosting-Loan-Acceptance-Rates)
 [![](https://img.shields.io/badge/-💳%20Credit%20Card%20Fraud%20Detection-000)](https://github.com/omar-kabeer/my_paypal)
