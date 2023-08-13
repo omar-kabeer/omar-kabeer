@@ -2,7 +2,7 @@
 
 # Umar Kabir 👨🏾‍💻
 
-<font size="+2" color='#053c96'><b> Data Scientist | Business Analyst 📑📊📈📉</b></font> 
+<font size="+2" color='#053c96'><b> Data Scientist | Business Analyst </b></font>📑📊📈📉   
 Welcome to my GitHub! I'm excited to share with you my projects, skills, and experience. 
 
 ### My CV/Resume
